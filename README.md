@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 💻 Full-stack developer focused on **real-world, scalable applications**
-- 🐍 Strong in **Python, JavaScript, SQL**
+- 🐍 Strong in **Python, Java, JavaScript, SQL**
 - 🧠 Deep focus on **DSA & problem-solving (patterns > memorization)**
 - ⚙️ Clean code, structured architecture, performance-first mindset
 - 🎯 Preparing for **industry roles & technical interviews (2025–2026)**
